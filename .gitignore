@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints/
+
+# Ignore old nested repo scaffold
+rule-of-law-kmedoids-segmentation/
